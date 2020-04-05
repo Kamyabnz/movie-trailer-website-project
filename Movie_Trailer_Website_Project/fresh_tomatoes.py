@@ -10,6 +10,7 @@ main_page_head = '''
 <head>
     <meta charset="utf-8">
     <title>Fresh Tomatoes!</title>
+    <link rel="icon" href="./favicon.ico">
 
     <!-- Bootstrap 3 -->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
@@ -18,6 +19,11 @@ main_page_head = '''
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
     <style type="text/css" media="screen">
         body {
+            background-image: url('http://i.stack.imgur.com/kx8MT.gif');
+            background-size: cover;
+
+            height: 100vh;
+            margin:0;
             padding-top: 80px;
         }
         #trailer .modal-dialog {
@@ -36,6 +42,7 @@ main_page_head = '''
             height: 100%;
         }
         .movie-tile {
+            color: white;
             margin-bottom: 20px;
             padding-top: 20px;
         }

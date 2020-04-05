@@ -7,6 +7,7 @@ File Structure:
     - entertainment_center.py
     - fresh_tomatoes.py
     - README.txt
+    - favicon.ico	
 
 Introduction on how to run the Movie Trailer Project:
     1. Check if python is installed and you have it in your
@@ -30,5 +31,6 @@ Introduction on how to run the Movie Trailer Project:
         - entertainment_center.py
         - fresh_tomatoes.py
         - README.txt
+        - favicon.ico
     7. Now you should double click on the fresh_tomatoes.html and open it
        inside one of your browser's.
