@@ -2,6 +2,10 @@ Welcome to the Movie Trailer Project
 
 * Code has been checked under the PEP8 Guidelines
 
+Sources:
+   Gif: http://i.stack.imgur.com/kx8MT.gif
+   Favicon: https://www.favicon-generator.org/search/BLACK/T
+
 File Structure:
     - media.py
     - entertainment_center.py
